@@ -1,6 +1,6 @@
-I'm Adam Ormondroyd, PhD student @CavendishAstrophysics, based @theKavliInstituteforCosmology.
+I'm Adam Ormondroyd, data scientist at PolyChord Ltd.
 
-I am ```main```ly working on using nested sampling to constrain cosmology, with particular focus on the equation of state parameters of the dark sector.
+My PhD research was ```main```ly working on using nested sampling to constrain cosmology, with particular focus on the equation of state parameters of the dark sector.
 
 <!---
 Ormorod/Ormorod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
